@@ -8,7 +8,7 @@ The source code consists of two parts:
 
 ```riverSpline.R``` and ```riverSpline.cpp```
 
-Besides at test data set ```Missouri_River_sioux.dat``` is available.
+Besides at test data set ```tsRiver_missouri_csssi.dat``` is available.
 
 The code 
 
